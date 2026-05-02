@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! I'm Awais 👋
 
-<!--
-**AwaisAli1911/AwaisAli1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated **Data Science student** at Government College University Faisalabad and a freelancer passionate about building data-driven solutions.
 
-Here are some ideas to get you started:
+### 🚀 What I do
+* **Data Science & Analysis**: I focus on machine learning and extracting insights from data.
+* **Web Scraping**: I specialize in automated data extraction.
+* **Application Development**: I enjoy building interactive tools, like my Streamlit projects and AI chatbot applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Languages**: Python, R, SQL.
+* **Data Science Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow.
+* **Tools**: Power BI, Streamlit, Jupyter Notebook.
+
+### 📬 Let's Connect
+* **Email**: [awaisali1628@gmail.com](mailto:awaisali1628@gmail.com)
+* **Phone**: [03291539919](tel:03291539919)
+
+---
+*Looking for collaboration or freelance work? Feel free to reach out!*
